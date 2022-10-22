@@ -1,0 +1,18 @@
+header{background-color: lightblue;}
+main{padding-bottom: 30px;}
+footer{padding: 50px; background-color: lightblue;}
+.imgAtencion{height: 500px; width: 100%; padding: 10px;}
+.listaAtencion{height: 30px;}
+.imgFoo{height: 50px;}
+.imgMarcas{height: 50px;}
+h2{padding: 20px;}
+div a img {height: 190px; padding: 10px;}
+.textoAtencion{display: flex; flex-direction: column; justify-content: space-evenly}
+li{padding: 10px;}
+
+       
+
+
+    
+
+
